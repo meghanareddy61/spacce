@@ -1,0 +1,118 @@
+body{
+    background-image:url(stars-1654074_1280.jpg);
+   background-size: cover;
+}
+#neptune{
+    height:900px;
+    width: 900px;
+    border:1px solid white;
+    border-radius:50%;
+    }
+    #nep_pic{
+        mix-blend-mode:lighten;
+    position:absolute;
+    top:15px;
+    left:490px;
+    
+    
+    
+}
+#uranus{
+    height:800px;
+    width:800px;
+    border:1px solid white;
+    
+    border-radius:50%;
+    margin :50px;
+}
+#ur_pic{
+    position:absolute;
+    top:90px;
+    left:490px;
+    mix-blend-mode:lighten;
+}
+#saturn{
+    height:700px;
+    width:700px;
+    border:1px solid white;
+    
+    border-radius:50%;
+    margin :50px;
+}
+   #sat_pic{
+    position:absolute;
+    mix-blend-mode:lighten;
+    top:150px;
+    left:490px;
+
+   } #jupiter{
+    height:600px;
+    width:600px;
+    border:1px solid white;
+    border-radius:50%;
+    margin:50px;
+   }
+   #jup_pic{
+    position:absolute;
+    mix-blend-mode: lighten;
+    top:220px;
+    left:500px;
+   }
+   #mars{
+    height:500px;
+    width:500px;
+    border:1px solid white;
+    border-radius:50%;
+    margin:50px;
+   }
+   #mar_pic{
+    position:absolute;
+    top:290px;
+    left:490px;
+    mix-blend-mode: lighten;
+   }
+   #earth{
+    width:400px;
+    height:400px;
+    border:1px solid white;
+    border-radius:50%;
+    margin:50px;
+   }
+   #ear_pic{
+    position:absolute;
+    top:350px;
+    left:520px;
+    mix-blend-mode:lighten;
+   }
+   #venus{
+    width:300px;
+    height:300px;
+    border:1px solid white;
+    border-radius:50%;
+    margin:40px;
+   }
+   #ven_pic{
+    position:absolute;
+    top:420px;
+    left:550px;
+    mix-blend-mode:lighten;
+   }
+   #mercury{
+    width:200px;
+    height:200px;
+    border:1px solid white;
+    border-radius:50%;
+    margin:50px;
+
+   }#mer_pic{
+    position:absolute;
+    top:460px;
+    left:610px;
+    mix-blend-mode:lighten;
+   }
+   #sun_pic{
+position:absolute;
+top:380px;
+left:670px;
+mix-blend-mode: lighten;
+   }
